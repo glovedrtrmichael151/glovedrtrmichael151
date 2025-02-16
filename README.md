@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm glovedrtrmichael151
 
-<!--
-**glovedrtrmichael151/glovedrtrmichael151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛶 🏊 🥁 Fascinated by natural language processing 🛶 🏊 🥁
 
-Here are some ideas to get you started:
+## About Me
+🎽 🛼 🏑 Improving my skills in natural language processing 🎽 🛼 🏑
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🚴 🎰 🎯 🎯 A beginner in project management 🚴 🎰 🎯 🎯
+
+### Fun Facts
+🏊 🎮 🏓 🎽 Looking to contribute to product management 🏊 🎮 🏓 🎽
+
+---
+🎾 🏊 🛼 🎮 🎪 Thanks for visiting my profile! 🎪 🛹 🏄 🚣 🎬
